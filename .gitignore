@@ -1,8 +1,0 @@
-.env
-vendor
-system
-writable
-node_modules
-coverage
-dist
-test
