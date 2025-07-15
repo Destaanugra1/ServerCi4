@@ -1,0 +1,2 @@
+server/app/Database/Migrations/2025-05-30-034711_Users.php
+server/app/Database/Migrations/2025-05-30-034950_Product.php
